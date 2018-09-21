@@ -4,6 +4,10 @@ import {BrowserRouter as Router,Route,Link} from 'react-router-dom';
 import Home from './home';
 import About from './about';
 import Articles from './articles';
+import First from './articles/article-1';
+import Second from './articles/article-2';
+import Third from './articles/article-3';
+
 
 const App = () => {
     return (
