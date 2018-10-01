@@ -1,5 +1,5 @@
-import React,{Component} from 'react';
-import {BrowserRouter as Router,Route,Link} from 'react-router-dom';
+import React from 'react';
+import {BrowserRouter as Route,Link} from 'react-router-dom';
 import First from './articles/article-1';
 import Second from './articles/article-2';
 import Third from './articles/article-3';
